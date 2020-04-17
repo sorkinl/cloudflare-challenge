@@ -1,6 +1,6 @@
 name = "cloudflare_app_leonid_sorkin"
 type = "javascript"
-account_id = "706c4f5ce9c0e905ddbf1f0e849c7ed2"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
